@@ -22,3 +22,8 @@
   display: flex;
   align-items: center;
 }
+
+.logo {
+  width: 160px;
+  cursor: pointer;
+}
