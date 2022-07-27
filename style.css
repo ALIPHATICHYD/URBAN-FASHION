@@ -95,3 +95,10 @@ nav ul li a {
   right: 160px;
 
 }
+
+.links {
+  transform: rotate(-90deg);
+  position: absolute;
+  left: -80px;
+  bottom: 180px;
+}
