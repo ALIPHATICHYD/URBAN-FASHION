@@ -82,3 +82,8 @@ nav ul li a {
   margin-top: 40px;
   display: flex;
 }
+
+.arrow-icons img {
+  width: 40px;
+  margin-right: 25px ;
+}
