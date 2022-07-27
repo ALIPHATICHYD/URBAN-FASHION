@@ -87,3 +87,11 @@ nav ul li a {
   width: 40px;
   margin-right: 25px ;
 }
+
+.main-img {
+  height: 90%;
+  position: absolute;
+  bottom: 0;
+  right: 160px;
+
+}
