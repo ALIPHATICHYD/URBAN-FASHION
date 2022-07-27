@@ -77,3 +77,8 @@ nav ul li a {
   font-size: 20px;
   color: #6a7199;
 }
+
+.arrow-icons {
+  margin-top: 40px;
+  display: flex;
+}
